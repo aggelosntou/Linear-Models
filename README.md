@@ -1,2 +1,24 @@
-# Global Development Indicators: A Statistical Analysis for Corruption Control
-This project was an assignment for my course in Liner Models.It focuses on the study of global development indicators and the control of corruption through statistical analysis. The research initially examines data from various countries, exploring different indicators related to global development. A key part of the study involves categorizing certain data into qualitative and quantitative variables, aiming to draw conclusions about averages, variances, and checking for normal distribution.
+Global Development Indicators: A Statistical Analysis for Corruption Control
+Project Overview
+This project, completed as part of a course on Linear Models, investigates global development indicators and their relationship with corruption control through statistical analysis.
+
+Key Objectives
+Data Examination: Analyze data from various countries, focusing on global development indicators.
+Variable Categorization: Classify data into qualitative and quantitative variables.
+Descriptive Statistics: Compute averages, variances, and other descriptive statistics.
+Multiple Linear Regression: Develop a multiple linear regression model to explore relationships between variables.
+Model Validation: Verify model assumptions to ensure robustness.
+ANOVA: Conduct Analysis of Variance (ANOVA) to assess differences in means between dependent and independent variables.
+Methodology
+Data Preparation: Clean and categorize data into appropriate qualitative and quantitative types.
+Descriptive Analysis: Calculate key statistical measures including means, variances, and other relevant statistics.
+Model Building: Create a multiple linear regression model to explore the relationships between indicators and corruption control.
+Assumption Testing: Validate the assumptions of the linear model to ensure accuracy.
+ANOVA Testing: Perform ANOVA to evaluate differences in means across different variables.
+Results and Findings
+The results of this analysis will include:
+
+Summary statistics of the indicators
+Details of the multiple linear regression model
+Validation of model assumptions
+ANOVA results highlighting differences in means
