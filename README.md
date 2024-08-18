@@ -29,8 +29,3 @@ The results of this analysis will include:
 - Details of the multiple linear regression model
 - Validation of model assumptions
 - ANOVA results highlighting differences in means
-
-## Contact
-
-For any questions or further information, please contact me at aggelosntousis02@gmail.com.
-
