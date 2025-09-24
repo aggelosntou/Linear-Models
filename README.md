@@ -1,31 +1,30 @@
 # Global Development Indicators: A Statistical Analysis for Corruption Control
 
-## Project Overview
+## 📑 Project Overview
+This project, completed as part of a course on Linear Models, investigates how global development indicators relate to corruption control through statistical analysis.
 
-This project, completed as part of a course on Linear Models, investigates global development indicators and their relationship with corruption control through statistical analysis.
+👉 Full report: [GR.pdf](./GR.pdf)
 
-## Key Objectives
+---
 
-- **Data Examination**: Analyze data from various countries, focusing on global development indicators.
-- **Variable Categorization**: Classify data into qualitative and quantitative variables.
-- **Descriptive Statistics**: Compute averages, variances, and other descriptive statistics.
-- **Multiple Linear Regression**: Develop a multiple linear regression model to explore relationships between variables.
-- **Model Validation**: Verify model assumptions to ensure robustness.
-- **ANOVA**: Conduct Analysis of Variance (ANOVA) to assess differences in means between dependent and independent variables.
+## 🎯 Key Objectives
+- **Data Examination**: Analyze development indicators across countries.  
+- **Variable Categorization**: Separate qualitative vs quantitative variables.  
+- **Descriptive Statistics**: Compute means, variances, and correlations.  
+- **Multiple Linear Regression**: Model corruption control using development indicators.  
+- **Model Validation**: Test regression assumptions (linearity, normality, homoscedasticity).  
+- **ANOVA**: Assess differences across groups of variables.  
 
-## Methodology
+---
 
-1. **Data Preparation**: Clean and categorize data into appropriate qualitative and quantitative types.
-2. **Descriptive Analysis**: Calculate key statistical measures including means, variances, and other relevant statistics.
-3. **Model Building**: Create a multiple linear regression model to explore the relationships between indicators and corruption control.
-4. **Assumption Testing**: Validate the assumptions of the linear model to ensure accuracy.
-5. **ANOVA Testing**: Perform ANOVA to evaluate differences in means across different variables.
+## 🛠️ Methodology
+1. **Data Preparation** — cleaning, categorization.  
+2. **Descriptive Analysis** — means, variances, correlations.  
+3. **Model Building** — multiple linear regression.  
+4. **Assumption Testing** — regression assumptions validated.  
+5. **ANOVA** — statistical comparison of group means.  
 
-## Results and Findings
+---
 
-The results of this analysis will include:
 
-- Summary statistics of the indicators
-- Details of the multiple linear regression model
-- Validation of model assumptions
-- ANOVA results highlighting differences in means
+
