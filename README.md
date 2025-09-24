@@ -3,7 +3,7 @@
 ## 📑 Project Overview
 This project, completed as part of a course on Linear Models, investigates how global development indicators relate to corruption control through statistical analysis.
 
-👉 Full report: [Paper](./Report(GR).pdf)
+👉 Full report: [Paper](./Report (GR).pdf)
 
 ---
 
