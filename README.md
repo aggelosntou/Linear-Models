@@ -1,12 +1,12 @@
-# Global Development Indicators & Corruption Control — A Statistical Analysis 📊
+# Global Development Indicators & Corruption Control — A Statistical Analysis 
 
-## 📑 Overview
+## Overview
 This project analyzes how **global development indicators** relate to **corruption control**, using data from the **World Bank (WDI, 2018)**.  
 It was completed as part of a university course on **Linear Models**, with full methodology and results documented in the report [Report (GR).pdf](./Report%20(GR).pdf).
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Explore socioeconomic and governance indicators across **120 countries**.  
 - Categorize indicators into quantitative (e.g., GDP, CO₂ emissions, internet use) and qualitative (e.g., fertility categories).  
 - Apply **multiple linear regression** to explain corruption control.  
@@ -16,7 +16,7 @@ It was completed as part of a university course on **Linear Models**, with full 
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 1. **Data Preparation**: 27 variables across 120 countries, cleaned and structured.  
 2. **Descriptive Statistics**: Means, variances, distributions per category.  
 3. **Linear Model**: Regression of corruption control (`CorControl`) on multiple indicators.  
@@ -26,7 +26,7 @@ It was completed as part of a university course on **Linear Models**, with full 
 
 ---
 
-## 📊 Key Results
+## Key Results
 - **Best linear model** (after stepwise selection):  
   - Predictors include **ElectrAccess, Internet use, GDPdollars, PopGrowth, Adolescent Fertility Rate, Women in Business**, among others .  
   - **R² = 0.807** (Adjusted R² = 0.790) → strong explanatory power.  
@@ -47,7 +47,7 @@ It was completed as part of a university course on **Linear Models**, with full 
 
 ---
 
-## 📑 Deliverables
+## Deliverables
 - Full Report (Greek): [Report (GR).pdf](./Report%20(GR).pdf)  
 Contains tables, regression outputs, ANOVA results, and discussion.  
 
